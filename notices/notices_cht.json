@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00028-261010",
+     "title": "Happy Birthday！姬森璐娜",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/60482de48d02708f0d0cf132a38fe5b63c30383f6029d3be1b62b64d317470ea/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00028-261010",
+     "start_time": 1791558000000,
+     "start_time_utc": "2026-10-09T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gacha-pickup-261007",
      "title": "連結大海開拓逐夢 轉蛋活動開始！",
      "type": 1,
@@ -325,17 +336,6 @@
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/5976ffcd89fb435ee63759c34dfffd07fc5529ceaaa661ed15a2857f41a91795/index.html",
      "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop_startdash-release",
-     "title": "發布紀念期間限定禮包登場",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/5c8f62ddba665b707eea24daf8f65ec72cc1c5172673e8fe991b83e3e60ccb34/index.html",
-     "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
