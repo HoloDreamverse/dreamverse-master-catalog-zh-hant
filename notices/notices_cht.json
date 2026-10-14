@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-marathon_event-normal-007-pre",
+     "title": "【預告】集點活動「繽紛燦爛♪豔陽下的狂歡盛會」開始！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4b550cc962547f143234b472ae70a70cd95d22970eb9e23bf321cca4ee3542ec/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-007",
+     "start_time": 1791943200000,
+     "start_time_utc": "2026-10-14T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-birthday-chr-03004-261013",
      "title": "Happy Birthday！Kureiji Ollie",
      "type": 6,
@@ -327,17 +338,6 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-common-001",
-     "title": "holodori轉蛋活動開始",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f220915e49cce3ad1f67228296d5ce7b34b88564b6e0667cb51550be29222475/index.html",
-     "banner_asset_id": "img_banner_full_gacha-common-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
