@@ -22,6 +22,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-daily_quest_update-261016",
+     "title": "關於每日關卡的獎勵",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/440db7cc21e45f3f91c2b42dd6dc83195b94aede713f0b991930d3825b68f76c/index.html",
+     "banner_asset_id": "",
+     "start_time": 1792141200000,
+     "start_time_utc": "2026-10-16T09:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gacha-pickup-261007",
      "title": "連結大海開拓逐夢 轉蛋活動開始！",
      "type": 1,
