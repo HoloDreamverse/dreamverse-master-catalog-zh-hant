@@ -165,17 +165,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-music-release-260926",
-     "title": "新增NepoX的樂曲「Watcha Gatcha!!!!!!!!」！",
-     "type": 5,
-     "type_name": "music_update",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/8c0d22d96fa5fc7c3fdfbf4b004da2a070904926901849b6afcf6003d2264ee0/index.html",
-     "banner_asset_id": "img_banner_full_music-release-260927",
-     "start_time": 1790424000000,
-     "start_time_utc": "2026-09-26T12:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260909",
      "title": "Ver.1.1.1更新公告",
      "type": 3,
