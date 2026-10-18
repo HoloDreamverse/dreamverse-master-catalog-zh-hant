@@ -11,6 +11,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gacha-pickup-261019-pre",
+     "title": "【預告】幸福無比的海濱時光 轉蛋活動開始！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/85109e953b4d1961a6030822c1c8c9e1425c644f10d7bbc4a6974d3e3e290904/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-003-pre",
+     "title": "【預告】焦點活動「光彩四射的海濱時尚秀」活動開始！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c347d5fa96734283390c08606ec746262a727ba78e0d9dfe0f78b693b58a20d6/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-007",
      "title": "集點活動「繽紛燦爛♪豔陽下的狂歡盛會」開始！",
      "type": 2,
