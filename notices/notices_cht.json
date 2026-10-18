@@ -132,17 +132,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-260929",
-     "title": "新增新區域紀念登入獎勵活動開始！",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6519e628217a6d832961a30ecc39e5951f829fa97e4ff8de5eab7403ee24514a/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-fixed-260929",
      "title": "新增新區域紀念！必出1名5★轉蛋",
      "type": 1,
@@ -151,17 +140,6 @@
      "banner_asset_id": "img_banner_full_gacha-fixed-260929",
      "start_time": 1790629200000,
      "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-stone-area03_celebration-260929",
-     "title": "新增新區域紀念期間限定禮包登場",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/557aa3e272b01edd315bdbccab411b3f185cbe2c7bb94a073a9ebb7814928ffb/index.html",
-     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
      "external_url": ""
     },
     {
