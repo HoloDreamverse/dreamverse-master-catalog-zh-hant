@@ -11,14 +11,14 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-gacha-pickup-261019-pre",
-     "title": "【預告】幸福無比的海濱時光 轉蛋活動開始！",
+     "id": "notice-news-gacha-pickup-261019",
+     "title": "幸福無比的海濱時光 轉蛋活動開始！",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/85109e953b4d1961a6030822c1c8c9e1425c644f10d7bbc4a6974d3e3e290904/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/599280534e4a3a5447f915f114800132dee120bca736d1b82720c5196f90574a/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-261019",
-     "start_time": 1792317600000,
-     "start_time_utc": "2026-10-18T10:00:00Z",
+     "start_time": 1792375200000,
+     "start_time_utc": "2026-10-19T02:00:00Z",
      "external_url": ""
     },
     {
@@ -55,17 +55,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-261007",
-     "title": "連結大海開拓逐夢 轉蛋活動開始！",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ab659a8aa3ec85cbe8f24bae70ffc231706aa46112bdc5a52092803be4b413a9/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-261007",
-     "start_time": 1791338400000,
-     "start_time_utc": "2026-10-07T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-marathon_event-normal-006",
      "title": "分數挑戰活動「全力決勝的海上追逐戰」開始！",
      "type": 2,
@@ -99,17 +88,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-260929",
-     "title": "夢幻的碧藍新天地轉蛋活動開始！",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/09bbaf28e6b141e40a993c6d04a97822bf6885e070b4994f189c1664bc1782c4/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-shop-missionpass-261001",
      "title": "「2026年10月任務通行證」開始！",
      "type": 4,
@@ -129,17 +107,6 @@
      "banner_asset_id": "img_banner_full_shop-membership-261001",
      "start_time": 1790798400000,
      "start_time_utc": "2026-09-30T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-fixed-260929",
-     "title": "新增新區域紀念！必出1名5★轉蛋",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b057be01efd23d49d5b00cf02eb8099d4ec92a390018f9db2d5fc8e416e5847f/index.html",
-     "banner_asset_id": "img_banner_full_gacha-fixed-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
      "external_url": ""
     },
     {
