@@ -4,10 +4,10 @@
   "filesManifest": {
     "bytes": 20381,
     "path": "master/files.json",
-    "sha256": "9f725f9f52a47cf616e0b1cce0ab2353e00645e9d02f2523f93c69dc37f8b702"
+    "sha256": "2981fed814363874aae24b654c60be937ca65e2498771a2711d4be8b6500073a"
   },
   "lang": "cht",
-  "masterVersion": "e1eea8627c36e512ed0f8f662d0d80e14b9000cb8facd546d38e492e91a3c528",
+  "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
   "package": null,
   "region": "jp"
 }
