@@ -55,17 +55,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-007",
-     "title": "集點活動「繽紛燦爛♪豔陽下的狂歡盛會」開始！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9372cdbdf67d53fbd864ce8d46d722deca5397711ee55a6692c61d9940105455/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-007",
-     "start_time": 1792033200000,
-     "start_time_utc": "2026-10-15T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-daily_quest_update-261016",
      "title": "關於每日關卡的獎勵",
      "type": 4,
