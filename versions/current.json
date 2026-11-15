@@ -1,13 +1,13 @@
 {
-  "appVersion": "1.2.1",
+  "appVersion": "1.2.101",
   "catalogRevision": null,
   "filesManifest": {
-    "bytes": 20381,
+    "bytes": 20385,
     "path": "master/files.json",
-    "sha256": "79e7f4ad46f00f5d104548b89e7c19556d30e676929a838cdb31ba999f0387d1"
+    "sha256": "6bd7beec50227973011880a9513903050f9f609af9c76ff9af6a7f927c2c22e0"
   },
   "lang": "cht",
-  "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
+  "masterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
   "package": null,
   "region": "jp"
 }

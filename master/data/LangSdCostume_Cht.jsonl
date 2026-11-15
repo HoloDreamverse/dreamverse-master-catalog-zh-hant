@@ -8,6 +8,7 @@
 {"id":"la-sdcos-00002-cmmn-0002-00","data":{"id":"la-sdcos-00002-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-00002-nrml-0001-00","data":{"id":"la-sdcos-00002-nrml-0001-00","text":"預設"}}
 {"id":"la-sdcos-00002-uniq-0001-00","data":{"id":"la-sdcos-00002-uniq-0001-00","text":"holo套裝-VHPR"}}
+{"id":"la-sdcos-00002-uniq-0104-00","data":{"id":"la-sdcos-00002-uniq-0104-00","text":"輕飄飄格紋"}}
 {"id":"la-sdcos-00004-cmmn-0000-00","data":{"id":"la-sdcos-00004-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-00004-cmmn-0001-00","data":{"id":"la-sdcos-00004-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-00004-cmmn-0002-00","data":{"id":"la-sdcos-00004-cmmn-0002-00","text":"夢幻團隊T恤"}}
@@ -30,6 +31,7 @@
 {"id":"la-sdcos-00007-cmmn-0002-00","data":{"id":"la-sdcos-00007-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-00007-nrml-0008-00","data":{"id":"la-sdcos-00007-nrml-0008-00","text":"預設"}}
 {"id":"la-sdcos-00007-uniq-0008-00","data":{"id":"la-sdcos-00007-uniq-0008-00","text":"俏皮可愛"}}
+{"id":"la-sdcos-00007-uniq-0096-00","data":{"id":"la-sdcos-00007-uniq-0096-00","text":"化身毛茸茸大野狼"}}
 {"id":"la-sdcos-00009-nrml-0009-00","data":{"id":"la-sdcos-00009-nrml-0009-00","text":"預設"}}
 {"id":"la-sdcos-00010-cmmn-0000-00","data":{"id":"la-sdcos-00010-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-00010-cmmn-0001-00","data":{"id":"la-sdcos-00010-cmmn-0001-00","text":"樂園官方制服"}}
@@ -88,6 +90,7 @@
 {"id":"la-sdcos-00019-cmmn-0002-00","data":{"id":"la-sdcos-00019-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-00019-nrml-0016-00","data":{"id":"la-sdcos-00019-nrml-0016-00","text":"預設"}}
 {"id":"la-sdcos-00019-uniq-0016-00","data":{"id":"la-sdcos-00019-uniq-0016-00","text":"調皮兔兔"}}
+{"id":"la-sdcos-00019-uniq-0108-00","data":{"id":"la-sdcos-00019-uniq-0108-00","text":"甜美古風黑洋裝"}}
 {"id":"la-sdcos-00021-cmmn-0000-00","data":{"id":"la-sdcos-00021-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-00021-cmmn-0001-00","data":{"id":"la-sdcos-00021-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-00021-cmmn-0002-00","data":{"id":"la-sdcos-00021-cmmn-0002-00","text":"夢幻團隊T恤"}}
@@ -136,6 +139,7 @@
 {"id":"la-sdcos-00031-cmmn-0002-00","data":{"id":"la-sdcos-00031-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-00031-nrml-0025-00","data":{"id":"la-sdcos-00031-nrml-0025-00","text":"預設"}}
 {"id":"la-sdcos-00031-uniq-0025-00","data":{"id":"la-sdcos-00031-uniq-0025-00","text":"歡樂花園"}}
+{"id":"la-sdcos-00031-uniq-0105-00","data":{"id":"la-sdcos-00031-uniq-0105-00","text":"Go-Out Energy"}}
 {"id":"la-sdcos-00032-cmmn-0000-00","data":{"id":"la-sdcos-00032-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-00032-cmmn-0001-00","data":{"id":"la-sdcos-00032-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-00032-cmmn-0002-00","data":{"id":"la-sdcos-00032-cmmn-0002-00","text":"夢幻團隊T恤"}}
@@ -177,16 +181,19 @@
 {"id":"la-sdcos-03001-cmmn-0002-00","data":{"id":"la-sdcos-03001-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-03001-nrml-0033-00","data":{"id":"la-sdcos-03001-nrml-0033-00","text":"預設"}}
 {"id":"la-sdcos-03001-uniq-0033-00","data":{"id":"la-sdcos-03001-uniq-0033-00","text":"奇幻森林"}}
+{"id":"la-sdcos-03001-uniq-0114-00","data":{"id":"la-sdcos-03001-uniq-0114-00","text":"睡眼惺忪的橡果"}}
 {"id":"la-sdcos-03002-cmmn-0000-00","data":{"id":"la-sdcos-03002-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-03002-cmmn-0001-00","data":{"id":"la-sdcos-03002-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-03002-cmmn-0002-00","data":{"id":"la-sdcos-03002-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-03002-nrml-0034-00","data":{"id":"la-sdcos-03002-nrml-0034-00","text":"預設"}}
 {"id":"la-sdcos-03002-uniq-0034-00","data":{"id":"la-sdcos-03002-uniq-0034-00","text":"炫目月光"}}
+{"id":"la-sdcos-03002-uniq-0113-00","data":{"id":"la-sdcos-03002-uniq-0113-00","text":"愜意星空"}}
 {"id":"la-sdcos-03003-cmmn-0000-00","data":{"id":"la-sdcos-03003-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-03003-cmmn-0001-00","data":{"id":"la-sdcos-03003-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-03003-cmmn-0002-00","data":{"id":"la-sdcos-03003-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-03003-nrml-0035-00","data":{"id":"la-sdcos-03003-nrml-0035-00","text":"預設"}}
 {"id":"la-sdcos-03003-uniq-0035-00","data":{"id":"la-sdcos-03003-uniq-0035-00","text":"畫布情懷"}}
+{"id":"la-sdcos-03003-uniq-0115-00","data":{"id":"la-sdcos-03003-uniq-0115-00","text":"暖陽小憩"}}
 {"id":"la-sdcos-03004-cmmn-0000-00","data":{"id":"la-sdcos-03004-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-03004-cmmn-0001-00","data":{"id":"la-sdcos-03004-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-03004-cmmn-0002-00","data":{"id":"la-sdcos-03004-cmmn-0002-00","text":"夢幻團隊T恤"}}
@@ -204,11 +211,13 @@
 {"id":"la-sdcos-03006-cmmn-0002-00","data":{"id":"la-sdcos-03006-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-03006-nrml-0038-00","data":{"id":"la-sdcos-03006-nrml-0038-00","text":"預設"}}
 {"id":"la-sdcos-03006-uniq-0038-00","data":{"id":"la-sdcos-03006-uniq-0038-00","text":"皇家羽飾"}}
+{"id":"la-sdcos-03006-uniq-0107-00","data":{"id":"la-sdcos-03006-uniq-0107-00","text":"艷麗孔雀"}}
 {"id":"la-sdcos-03007-cmmn-0000-00","data":{"id":"la-sdcos-03007-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-03007-cmmn-0001-00","data":{"id":"la-sdcos-03007-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-03007-cmmn-0002-00","data":{"id":"la-sdcos-03007-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-03007-nrml-0039-00","data":{"id":"la-sdcos-03007-nrml-0039-00","text":"預設"}}
 {"id":"la-sdcos-03007-uniq-0039-00","data":{"id":"la-sdcos-03007-uniq-0039-00","text":"暗黑特務"}}
+{"id":"la-sdcos-03007-uniq-0100-00","data":{"id":"la-sdcos-03007-uniq-0100-00","text":"迷人俏護士"}}
 {"id":"la-sdcos-03008-cmmn-0000-00","data":{"id":"la-sdcos-03008-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-03008-cmmn-0001-00","data":{"id":"la-sdcos-03008-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-03008-cmmn-0002-00","data":{"id":"la-sdcos-03008-cmmn-0002-00","text":"夢幻團隊T恤"}}
@@ -245,6 +254,7 @@
 {"id":"la-sdcos-04007-cmmn-0002-00","data":{"id":"la-sdcos-04007-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-04007-nrml-0047-00","data":{"id":"la-sdcos-04007-nrml-0047-00","text":"預設"}}
 {"id":"la-sdcos-04007-uniq-0047-00","data":{"id":"la-sdcos-04007-uniq-0047-00","text":"共鳴墜落者"}}
+{"id":"la-sdcos-04007-uniq-0106-00","data":{"id":"la-sdcos-04007-uniq-0106-00","text":"古典少女風"}}
 {"id":"la-sdcos-04009-nrml-0048-00","data":{"id":"la-sdcos-04009-nrml-0048-00","text":"預設"}}
 {"id":"la-sdcos-04010-cmmn-0000-00","data":{"id":"la-sdcos-04010-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-04010-cmmn-0001-00","data":{"id":"la-sdcos-04010-cmmn-0001-00","text":"樂園官方制服"}}
@@ -275,6 +285,7 @@
 {"id":"la-sdcos-04015-cmmn-0002-00","data":{"id":"la-sdcos-04015-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-04015-nrml-0054-00","data":{"id":"la-sdcos-04015-nrml-0054-00","text":"預設"}}
 {"id":"la-sdcos-04015-uniq-0054-00","data":{"id":"la-sdcos-04015-uniq-0054-00","text":"優雅渡鴉"}}
+{"id":"la-sdcos-04015-uniq-0099-00","data":{"id":"la-sdcos-04015-uniq-0099-00","text":"魅惑魔女"}}
 {"id":"la-sdcos-04016-cmmn-0000-00","data":{"id":"la-sdcos-04016-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-04016-cmmn-0001-00","data":{"id":"la-sdcos-04016-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-04016-cmmn-0002-00","data":{"id":"la-sdcos-04016-cmmn-0002-00","text":"夢幻團隊T恤"}}
@@ -305,8 +316,10 @@
 {"id":"la-sdcos-06004-cmmn-0002-00","data":{"id":"la-sdcos-06004-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-06004-nrml-0060-00","data":{"id":"la-sdcos-06004-nrml-0060-00","text":"預設"}}
 {"id":"la-sdcos-06004-uniq-0060-00","data":{"id":"la-sdcos-06004-uniq-0060-00","text":"浪漫羽織時尚"}}
+{"id":"la-sdcos-06004-uniq-0098-00","data":{"id":"la-sdcos-06004-uniq-0098-00","text":"哥德吸血鬼"}}
 {"id":"la-sdcos-06005-cmmn-0000-00","data":{"id":"la-sdcos-06005-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-sdcos-06005-cmmn-0001-00","data":{"id":"la-sdcos-06005-cmmn-0001-00","text":"樂園官方制服"}}
 {"id":"la-sdcos-06005-cmmn-0002-00","data":{"id":"la-sdcos-06005-cmmn-0002-00","text":"夢幻團隊T恤"}}
 {"id":"la-sdcos-06005-nrml-0061-00","data":{"id":"la-sdcos-06005-nrml-0061-00","text":"預設"}}
 {"id":"la-sdcos-06005-uniq-0061-00","data":{"id":"la-sdcos-06005-uniq-0061-00","text":"甜美番長風格"}}
+{"id":"la-sdcos-06005-uniq-0097-00","data":{"id":"la-sdcos-06005-uniq-0097-00","text":"最強殭屍"}}

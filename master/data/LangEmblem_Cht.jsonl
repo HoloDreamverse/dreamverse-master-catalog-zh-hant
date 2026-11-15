@@ -2,13 +2,17 @@
 {"id":"la-emblem-birthday-chr-00006-261005","data":{"id":"la-emblem-birthday-chr-00006-261005","text":"白上吹雪生日2026"}}
 {"id":"la-emblem-birthday-chr-00014-260820","data":{"id":"la-emblem-birthday-chr-00014-260820","text":"大神澪生日2026"}}
 {"id":"la-emblem-birthday-chr-00017-261001","data":{"id":"la-emblem-birthday-chr-00017-261001","text":"戌神沁音生日2026"}}
+{"id":"la-emblem-birthday-chr-00022-261124","data":{"id":"la-emblem-birthday-chr-00022-261124","text":"白銀諾艾爾生日2026"}}
 {"id":"la-emblem-birthday-chr-00023-260730","data":{"id":"la-emblem-birthday-chr-00023-260730","text":"寶鐘瑪琳生日2026"}}
 {"id":"la-emblem-birthday-chr-00027-260808","data":{"id":"la-emblem-birthday-chr-00027-260808","text":"常闇永遠生日2026"}}
 {"id":"la-emblem-birthday-chr-00028-261010","data":{"id":"la-emblem-birthday-chr-00028-261010","text":"姬森璐娜生日2026"}}
+{"id":"la-emblem-birthday-chr-00030-261115","data":{"id":"la-emblem-birthday-chr-00030-261115","text":"雪花菈米生日2026"}}
 {"id":"la-emblem-birthday-chr-00032-260908","data":{"id":"la-emblem-birthday-chr-00032-260908","text":"獅白牡丹生日2026"}}
 {"id":"la-emblem-birthday-chr-03004-261013","data":{"id":"la-emblem-birthday-chr-03004-261013","text":"Kureiji Ollie生日2026"}}
 {"id":"la-emblem-birthday-chr-03006-260909","data":{"id":"la-emblem-birthday-chr-03006-260909","text":"Pavolia Reine生日2026"}}
+{"id":"la-emblem-birthday-chr-03007-261107","data":{"id":"la-emblem-birthday-chr-03007-261107","text":"Vestia Zeta生日2026"}}
 {"id":"la-emblem-birthday-chr-03008-260830","data":{"id":"la-emblem-birthday-chr-03008-260830","text":"Kaela Kovalskia生日2026"}}
+{"id":"la-emblem-birthday-chr-04015-261121","data":{"id":"la-emblem-birthday-chr-04015-261121","text":"Nerissa Ravencroft生日2026"}}
 {"id":"la-emblem-chr-best_score_rating_00001-1000","data":{"id":"la-emblem-chr-best_score_rating_00001-1000","text":"時乃空 最佳分數 1000"}}
 {"id":"la-emblem-chr-best_score_rating_00001-1500","data":{"id":"la-emblem-chr-best_score_rating_00001-1500","text":"時乃空 最佳分數 1500"}}
 {"id":"la-emblem-chr-best_score_rating_00001-500","data":{"id":"la-emblem-chr-best_score_rating_00001-500","text":"時乃空 最佳分數 500"}}
@@ -554,58 +558,111 @@
 {"id":"la-emblem-chr-highest_score_rating_06005-100","data":{"id":"la-emblem-chr-highest_score_rating_06005-100","text":"轟一 高評級 TOP100"}}
 {"id":"la-emblem-chr-highest_score_rating_06005-1000","data":{"id":"la-emblem-chr-highest_score_rating_06005-1000","text":"轟一 高評級 TOP1000"}}
 {"id":"la-emblem-chr-membership_00001-01","data":{"id":"la-emblem-chr-membership_00001-01","text":"時乃空 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00001-02","data":{"id":"la-emblem-chr-membership_00001-02","text":"時乃空 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00002-01","data":{"id":"la-emblem-chr-membership_00002-01","text":"蘿蔔子 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00002-02","data":{"id":"la-emblem-chr-membership_00002-02","text":"蘿蔔子 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00004-01","data":{"id":"la-emblem-chr-membership_00004-01","text":"亞綺．羅森塔爾 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00004-02","data":{"id":"la-emblem-chr-membership_00004-02","text":"亞綺．羅森塔爾 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00005-01","data":{"id":"la-emblem-chr-membership_00005-01","text":"赤井心 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00005-02","data":{"id":"la-emblem-chr-membership_00005-02","text":"赤井心 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00006-01","data":{"id":"la-emblem-chr-membership_00006-01","text":"白上吹雪 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00006-02","data":{"id":"la-emblem-chr-membership_00006-02","text":"白上吹雪 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00007-01","data":{"id":"la-emblem-chr-membership_00007-01","text":"夏色祭 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00007-02","data":{"id":"la-emblem-chr-membership_00007-02","text":"夏色祭 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00010-01","data":{"id":"la-emblem-chr-membership_00010-01","text":"百鬼綾目 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00010-02","data":{"id":"la-emblem-chr-membership_00010-02","text":"百鬼綾目 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00011-01","data":{"id":"la-emblem-chr-membership_00011-01","text":"癒月巧可 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00011-02","data":{"id":"la-emblem-chr-membership_00011-02","text":"癒月巧可 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00012-01","data":{"id":"la-emblem-chr-membership_00012-01","text":"大空昴 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00012-02","data":{"id":"la-emblem-chr-membership_00012-02","text":"大空昴 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00013-01","data":{"id":"la-emblem-chr-membership_00013-01","text":"AZKi 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00013-02","data":{"id":"la-emblem-chr-membership_00013-02","text":"AZKi 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00014-01","data":{"id":"la-emblem-chr-membership_00014-01","text":"大神澪 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00014-02","data":{"id":"la-emblem-chr-membership_00014-02","text":"大神澪 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00015-01","data":{"id":"la-emblem-chr-membership_00015-01","text":"櫻巫女 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00015-02","data":{"id":"la-emblem-chr-membership_00015-02","text":"櫻巫女 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00016-01","data":{"id":"la-emblem-chr-membership_00016-01","text":"貓又小粥 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00016-02","data":{"id":"la-emblem-chr-membership_00016-02","text":"貓又小粥 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00017-01","data":{"id":"la-emblem-chr-membership_00017-01","text":"戌神沁音 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00017-02","data":{"id":"la-emblem-chr-membership_00017-02","text":"戌神沁音 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00018-01","data":{"id":"la-emblem-chr-membership_00018-01","text":"星街彗星 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00018-02","data":{"id":"la-emblem-chr-membership_00018-02","text":"星街彗星 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00019-01","data":{"id":"la-emblem-chr-membership_00019-01","text":"兔田佩克拉 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00019-02","data":{"id":"la-emblem-chr-membership_00019-02","text":"兔田佩克拉 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00021-01","data":{"id":"la-emblem-chr-membership_00021-01","text":"不知火芙蕾雅 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00021-02","data":{"id":"la-emblem-chr-membership_00021-02","text":"不知火芙蕾雅 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00022-01","data":{"id":"la-emblem-chr-membership_00022-01","text":"白銀諾艾爾 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00022-02","data":{"id":"la-emblem-chr-membership_00022-02","text":"白銀諾艾爾 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00023-01","data":{"id":"la-emblem-chr-membership_00023-01","text":"寶鐘瑪琳 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00023-02","data":{"id":"la-emblem-chr-membership_00023-02","text":"寶鐘瑪琳 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00026-01","data":{"id":"la-emblem-chr-membership_00026-01","text":"角卷綿芽 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00026-02","data":{"id":"la-emblem-chr-membership_00026-02","text":"角卷綿芽 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00027-01","data":{"id":"la-emblem-chr-membership_00027-01","text":"常闇永遠 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00027-02","data":{"id":"la-emblem-chr-membership_00027-02","text":"常闇永遠 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00028-01","data":{"id":"la-emblem-chr-membership_00028-01","text":"姬森璐娜 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00028-02","data":{"id":"la-emblem-chr-membership_00028-02","text":"姬森璐娜 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00030-01","data":{"id":"la-emblem-chr-membership_00030-01","text":"雪花菈米 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00030-02","data":{"id":"la-emblem-chr-membership_00030-02","text":"雪花菈米 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00031-01","data":{"id":"la-emblem-chr-membership_00031-01","text":"桃鈴音音 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00031-02","data":{"id":"la-emblem-chr-membership_00031-02","text":"桃鈴音音 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00032-01","data":{"id":"la-emblem-chr-membership_00032-01","text":"獅白牡丹 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00032-02","data":{"id":"la-emblem-chr-membership_00032-02","text":"獅白牡丹 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00034-01","data":{"id":"la-emblem-chr-membership_00034-01","text":"尾丸波爾卡 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00034-02","data":{"id":"la-emblem-chr-membership_00034-02","text":"尾丸波爾卡 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00035-01","data":{"id":"la-emblem-chr-membership_00035-01","text":"拉普拉斯．暗黑 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00035-02","data":{"id":"la-emblem-chr-membership_00035-02","text":"拉普拉斯．暗黑 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00036-01","data":{"id":"la-emblem-chr-membership_00036-01","text":"鷹嶺琉依 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00036-02","data":{"id":"la-emblem-chr-membership_00036-02","text":"鷹嶺琉依 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00037-01","data":{"id":"la-emblem-chr-membership_00037-01","text":"博衣小夜璃 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00037-02","data":{"id":"la-emblem-chr-membership_00037-02","text":"博衣小夜璃 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_00039-01","data":{"id":"la-emblem-chr-membership_00039-01","text":"風真伊呂波 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_00039-02","data":{"id":"la-emblem-chr-membership_00039-02","text":"風真伊呂波 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03001-01","data":{"id":"la-emblem-chr-membership_03001-01","text":"Ayunda Risu 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03001-02","data":{"id":"la-emblem-chr-membership_03001-02","text":"Ayunda Risu 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03002-01","data":{"id":"la-emblem-chr-membership_03002-01","text":"Moona Hoshinova 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03002-02","data":{"id":"la-emblem-chr-membership_03002-02","text":"Moona Hoshinova 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03003-01","data":{"id":"la-emblem-chr-membership_03003-01","text":"Airani Iofifteen 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03003-02","data":{"id":"la-emblem-chr-membership_03003-02","text":"Airani Iofifteen 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03004-01","data":{"id":"la-emblem-chr-membership_03004-01","text":"Kureiji Ollie 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03004-02","data":{"id":"la-emblem-chr-membership_03004-02","text":"Kureiji Ollie 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03005-01","data":{"id":"la-emblem-chr-membership_03005-01","text":"Anya Melfissa 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03005-02","data":{"id":"la-emblem-chr-membership_03005-02","text":"Anya Melfissa 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03006-01","data":{"id":"la-emblem-chr-membership_03006-01","text":"Pavolia Reine 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03006-02","data":{"id":"la-emblem-chr-membership_03006-02","text":"Pavolia Reine 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03007-01","data":{"id":"la-emblem-chr-membership_03007-01","text":"Vestia Zeta 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03007-02","data":{"id":"la-emblem-chr-membership_03007-02","text":"Vestia Zeta 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03008-01","data":{"id":"la-emblem-chr-membership_03008-01","text":"Kaela Kovalskia 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03008-02","data":{"id":"la-emblem-chr-membership_03008-02","text":"Kaela Kovalskia 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_03009-01","data":{"id":"la-emblem-chr-membership_03009-01","text":"Kobo Kanaeru 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_03009-02","data":{"id":"la-emblem-chr-membership_03009-02","text":"Kobo Kanaeru 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04001-01","data":{"id":"la-emblem-chr-membership_04001-01","text":"Mori Calliope 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04001-02","data":{"id":"la-emblem-chr-membership_04001-02","text":"Mori Calliope 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04002-01","data":{"id":"la-emblem-chr-membership_04002-01","text":"Takanashi Kiara 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04002-02","data":{"id":"la-emblem-chr-membership_04002-02","text":"Takanashi Kiara 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04003-01","data":{"id":"la-emblem-chr-membership_04003-01","text":"Ninomae Ina'nis 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04003-02","data":{"id":"la-emblem-chr-membership_04003-02","text":"Ninomae Ina'nis 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04007-01","data":{"id":"la-emblem-chr-membership_04007-01","text":"IRyS 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04007-02","data":{"id":"la-emblem-chr-membership_04007-02","text":"IRyS 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04010-01","data":{"id":"la-emblem-chr-membership_04010-01","text":"Ouro Kronii 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04010-02","data":{"id":"la-emblem-chr-membership_04010-02","text":"Ouro Kronii 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04012-01","data":{"id":"la-emblem-chr-membership_04012-01","text":"Hakos Baelz 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04012-02","data":{"id":"la-emblem-chr-membership_04012-02","text":"Hakos Baelz 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04013-01","data":{"id":"la-emblem-chr-membership_04013-01","text":"Shiori Novella 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04013-02","data":{"id":"la-emblem-chr-membership_04013-02","text":"Shiori Novella 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04014-01","data":{"id":"la-emblem-chr-membership_04014-01","text":"Koseki Bijou 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04014-02","data":{"id":"la-emblem-chr-membership_04014-02","text":"Koseki Bijou 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_04015-01","data":{"id":"la-emblem-chr-membership_04015-01","text":"Nerissa Ravencroft 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_04015-02","data":{"id":"la-emblem-chr-membership_04015-02","text":"Nerissa Ravencroft 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_06002-01","data":{"id":"la-emblem-chr-membership_06002-01","text":"音乃瀨奏 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_06002-02","data":{"id":"la-emblem-chr-membership_06002-02","text":"音乃瀨奏 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_06003-01","data":{"id":"la-emblem-chr-membership_06003-01","text":"一條莉莉華 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_06003-02","data":{"id":"la-emblem-chr-membership_06003-02","text":"一條莉莉華 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_06004-01","data":{"id":"la-emblem-chr-membership_06004-01","text":"儒烏風亭螺鈿 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_06004-02","data":{"id":"la-emblem-chr-membership_06004-02","text":"儒烏風亭螺鈿 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_06005-01","data":{"id":"la-emblem-chr-membership_06005-01","text":"轟一 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_06005-02","data":{"id":"la-emblem-chr-membership_06005-02","text":"轟一 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_80001-01","data":{"id":"la-emblem-chr-membership_80001-01","text":"FUWAMOCO 會員資格稱號 No.1"}}
+{"id":"la-emblem-chr-membership_80001-02","data":{"id":"la-emblem-chr-membership_80001-02","text":"FUWAMOCO 會員資格稱號 No.2"}}
 {"id":"la-emblem-chr-membership_join_00001-01","data":{"id":"la-emblem-chr-membership_join_00001-01","text":"時乃空 會員資格加入特典稱號"}}
 {"id":"la-emblem-chr-membership_join_00002-01","data":{"id":"la-emblem-chr-membership_join_00002-01","text":"蘿蔔子 會員資格加入特典稱號"}}
 {"id":"la-emblem-chr-membership_join_00004-01","data":{"id":"la-emblem-chr-membership_join_00004-01","text":"亞綺．羅森塔爾 會員資格加入特典稱號"}}
@@ -717,6 +774,12 @@
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-gold","text":"Gold"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-platinum","text":"Platinum"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-silver","text":"Silver"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-bronze","text":"Bronze"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-diamond","text":"Diamond"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-dream","text":"Dream"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-gold","text":"Gold"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-platinum","text":"Platinum"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-silver","text":"Silver"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-bronze","text":"Bronze"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-diamond","text":"Diamond"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-dream","text":"Dream"}}
@@ -795,6 +858,36 @@
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-gold","text":"Gold"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-platinum","text":"Platinum"}}
 {"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-silver","text":"Silver"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-bronze","text":"Bronze"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-diamond","text":"Diamond"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-dream","text":"Dream"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-gold","text":"Gold"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-platinum","text":"Platinum"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-silver","text":"Silver"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-bronze","text":"Bronze"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-diamond","text":"Diamond"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-dream","text":"Dream"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-gold","text":"Gold"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-platinum","text":"Platinum"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-silver","text":"Silver"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-bronze","text":"Bronze"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-diamond","text":"Diamond"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-dream","text":"Dream"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-gold","text":"Gold"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-platinum","text":"Platinum"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-silver","text":"Silver"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-bronze","text":"Bronze"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-diamond","text":"Diamond"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-dream","text":"Dream"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-gold","text":"Gold"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-platinum","text":"Platinum"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-silver","text":"Silver"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-bronze","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-bronze","text":"Bronze"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-diamond","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-diamond","text":"Diamond"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-dream","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-dream","text":"Dream"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-gold","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-gold","text":"Gold"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-platinum","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-platinum","text":"Platinum"}}
+{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-silver","data":{"id":"la-emblem-marathon_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-silver","text":"Silver"}}
 {"id":"la-emblem-mini_game-chase-01","data":{"id":"la-emblem-mini_game-chase-01","text":"夜色追逐戰"}}
 {"id":"la-emblem-mini_game-chase-02","data":{"id":"la-emblem-mini_game-chase-02","text":"追逐戰大師"}}
 {"id":"la-emblem-mini_game-chase-03","data":{"id":"la-emblem-mini_game-chase-03","text":"追逐戰之王"}}
@@ -963,6 +1056,66 @@
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-gold","text":"Gold"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-platinum","text":"Platinum"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0369-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0371-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0372-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0373-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0388-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-m0551-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0394-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0396-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0528-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-009-chapter-01-m0550-silver","text":"Silver"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-bronze","text":"Bronze"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-diamond","text":"Diamond"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-dream","text":"Dream"}}
@@ -1041,11 +1194,42 @@
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-m0367-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-m0367-gold","text":"Gold"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-m0367-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-m0367-platinum","text":"Platinum"}}
 {"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-m0367-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-003-chapter-04-m0367-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-01-m0383-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-02-m0387-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-03-m0385-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-04-m0384-silver","text":"Silver"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-bronze","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-bronze","text":"Bronze"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-diamond","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-diamond","text":"Diamond"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-dream","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-dream","text":"Dream"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-gold","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-gold","text":"Gold"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-platinum","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-platinum","text":"Platinum"}}
+{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-silver","data":{"id":"la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-004-chapter-05-m0386-silver","text":"Silver"}}
 {"id":"la-emblem-park-area-a03-fishing-01","data":{"id":"la-emblem-park-area-a03-fishing-01","text":"釣魚見習生"}}
 {"id":"la-emblem-park-area-a03-fishing-02","data":{"id":"la-emblem-park-area-a03-fishing-02","text":"釣魚名人"}}
 {"id":"la-emblem-park-area_a01-01","data":{"id":"la-emblem-park-area_a01-01","text":"協奏花園"}}
 {"id":"la-emblem-park-area_a02-01","data":{"id":"la-emblem-park-area_a02-01","text":"電玩巨蛋城"}}
 {"id":"la-emblem-park-area_a03-01","data":{"id":"la-emblem-park-area_a03-01","text":"汽水泡泡灣"}}
+{"id":"la-emblem-stream-261029","data":{"id":"la-emblem-stream-261029","text":"撲克屋王爭奪賽紀念稱號"}}
 {"id":"la-emblem-stream_260728","data":{"id":"la-emblem-stream_260728","text":"遊戲直播企劃紀念稱號"}}
 {"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-002-chapter-01-bronze","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-002-chapter-01-bronze","text":"Bronze"}}
 {"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-002-chapter-01-diamond","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-002-chapter-01-diamond","text":"Diamond"}}
@@ -1071,3 +1255,9 @@
 {"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-006-chapter-01-gold","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-006-chapter-01-gold","text":"Gold"}}
 {"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-006-chapter-01-platinum","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-006-chapter-01-platinum","text":"Platinum"}}
 {"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-006-chapter-01-silver","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-006-chapter-01-silver","text":"Silver"}}
+{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-bronze","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-bronze","text":"Bronze"}}
+{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-diamond","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-diamond","text":"Diamond"}}
+{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-dream","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-dream","text":"Dream"}}
+{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-gold","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-gold","text":"Gold"}}
+{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-platinum","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-platinum","text":"Platinum"}}
+{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-silver","data":{"id":"la-emblem-total_music_highest_score_reward-marathon_event-normal-009-chapter-01-silver","text":"Silver"}}

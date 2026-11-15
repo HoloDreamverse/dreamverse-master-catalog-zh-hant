@@ -4,6 +4,7 @@
 {"id":"la-cos-00002-cmmn-0000-00","data":{"id":"la-cos-00002-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00002-nrml-0001-00","data":{"id":"la-cos-00002-nrml-0001-00","text":"預設"}}
 {"id":"la-cos-00002-uniq-0001-00","data":{"id":"la-cos-00002-uniq-0001-00","text":"Holo套裝-VHPR"}}
+{"id":"la-cos-00002-uniq-0104-00","data":{"id":"la-cos-00002-uniq-0104-00","text":"輕飄飄格紋"}}
 {"id":"la-cos-00004-cmmn-0000-00","data":{"id":"la-cos-00004-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00004-nrml-0005-00","data":{"id":"la-cos-00004-nrml-0005-00","text":"預設"}}
 {"id":"la-cos-00004-uniq-0005-00","data":{"id":"la-cos-00004-uniq-0005-00","text":"迷人的寧靜"}}
@@ -18,6 +19,7 @@
 {"id":"la-cos-00007-cmmn-0000-00","data":{"id":"la-cos-00007-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00007-nrml-0008-00","data":{"id":"la-cos-00007-nrml-0008-00","text":"預設"}}
 {"id":"la-cos-00007-uniq-0008-00","data":{"id":"la-cos-00007-uniq-0008-00","text":"俏皮可愛"}}
+{"id":"la-cos-00007-uniq-0096-00","data":{"id":"la-cos-00007-uniq-0096-00","text":"化身毛茸茸大野狼"}}
 {"id":"la-cos-00009-nrml-0009-00","data":{"id":"la-cos-00009-nrml-0009-00","text":"預設"}}
 {"id":"la-cos-00010-cmmn-0000-00","data":{"id":"la-cos-00010-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00010-nrml-0010-00","data":{"id":"la-cos-00010-nrml-0010-00","text":"預設"}}
@@ -56,6 +58,7 @@
 {"id":"la-cos-00019-cmmn-0000-00","data":{"id":"la-cos-00019-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00019-nrml-0016-00","data":{"id":"la-cos-00019-nrml-0016-00","text":"預設"}}
 {"id":"la-cos-00019-uniq-0016-00","data":{"id":"la-cos-00019-uniq-0016-00","text":"調皮兔兔"}}
+{"id":"la-cos-00019-uniq-0108-00","data":{"id":"la-cos-00019-uniq-0108-00","text":"甜美古風黑洋裝"}}
 {"id":"la-cos-00021-cmmn-0000-00","data":{"id":"la-cos-00021-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00021-nrml-0017-00","data":{"id":"la-cos-00021-nrml-0017-00","text":"預設"}}
 {"id":"la-cos-00021-uniq-0017-00","data":{"id":"la-cos-00021-uniq-0017-00","text":"天藍蝴蝶結造型"}}
@@ -88,6 +91,7 @@
 {"id":"la-cos-00031-cmmn-0000-00","data":{"id":"la-cos-00031-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00031-nrml-0025-00","data":{"id":"la-cos-00031-nrml-0025-00","text":"預設"}}
 {"id":"la-cos-00031-uniq-0025-00","data":{"id":"la-cos-00031-uniq-0025-00","text":"歡樂花園"}}
+{"id":"la-cos-00031-uniq-0105-00","data":{"id":"la-cos-00031-uniq-0105-00","text":"Go-Out Energy"}}
 {"id":"la-cos-00032-cmmn-0000-00","data":{"id":"la-cos-00032-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-00032-nrml-0026-00","data":{"id":"la-cos-00032-nrml-0026-00","text":"預設"}}
 {"id":"la-cos-00032-uniq-0026-00","data":{"id":"la-cos-00032-uniq-0026-00","text":"白獅統帥"}}
@@ -115,12 +119,15 @@
 {"id":"la-cos-03001-cmmn-0000-00","data":{"id":"la-cos-03001-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03001-nrml-0033-00","data":{"id":"la-cos-03001-nrml-0033-00","text":"預設"}}
 {"id":"la-cos-03001-uniq-0033-00","data":{"id":"la-cos-03001-uniq-0033-00","text":"奇幻森林"}}
+{"id":"la-cos-03001-uniq-0114-00","data":{"id":"la-cos-03001-uniq-0114-00","text":"睡眼惺忪的橡果"}}
 {"id":"la-cos-03002-cmmn-0000-00","data":{"id":"la-cos-03002-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03002-nrml-0034-00","data":{"id":"la-cos-03002-nrml-0034-00","text":"預設"}}
 {"id":"la-cos-03002-uniq-0034-00","data":{"id":"la-cos-03002-uniq-0034-00","text":"炫目月光"}}
+{"id":"la-cos-03002-uniq-0113-00","data":{"id":"la-cos-03002-uniq-0113-00","text":"愜意星空"}}
 {"id":"la-cos-03003-cmmn-0000-00","data":{"id":"la-cos-03003-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03003-nrml-0035-00","data":{"id":"la-cos-03003-nrml-0035-00","text":"預設"}}
 {"id":"la-cos-03003-uniq-0035-00","data":{"id":"la-cos-03003-uniq-0035-00","text":"畫布情懷"}}
+{"id":"la-cos-03003-uniq-0115-00","data":{"id":"la-cos-03003-uniq-0115-00","text":"暖陽小憩"}}
 {"id":"la-cos-03004-cmmn-0000-00","data":{"id":"la-cos-03004-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03004-nrml-0036-00","data":{"id":"la-cos-03004-nrml-0036-00","text":"預設"}}
 {"id":"la-cos-03004-uniq-0036-00","data":{"id":"la-cos-03004-uniq-0036-00","text":"不死拼綴"}}
@@ -132,9 +139,11 @@
 {"id":"la-cos-03006-cmmn-0000-00","data":{"id":"la-cos-03006-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03006-nrml-0038-00","data":{"id":"la-cos-03006-nrml-0038-00","text":"預設"}}
 {"id":"la-cos-03006-uniq-0038-00","data":{"id":"la-cos-03006-uniq-0038-00","text":"皇家羽飾"}}
+{"id":"la-cos-03006-uniq-0107-00","data":{"id":"la-cos-03006-uniq-0107-00","text":"艷麗孔雀"}}
 {"id":"la-cos-03007-cmmn-0000-00","data":{"id":"la-cos-03007-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03007-nrml-0039-00","data":{"id":"la-cos-03007-nrml-0039-00","text":"預設"}}
 {"id":"la-cos-03007-uniq-0039-00","data":{"id":"la-cos-03007-uniq-0039-00","text":"暗黑特務"}}
+{"id":"la-cos-03007-uniq-0100-00","data":{"id":"la-cos-03007-uniq-0100-00","text":"迷人俏護士"}}
 {"id":"la-cos-03008-cmmn-0000-00","data":{"id":"la-cos-03008-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-03008-nrml-0040-00","data":{"id":"la-cos-03008-nrml-0040-00","text":"預設"}}
 {"id":"la-cos-03008-uniq-0040-00","data":{"id":"la-cos-03008-uniq-0040-00","text":"命運錘煉"}}
@@ -159,6 +168,7 @@
 {"id":"la-cos-04007-cmmn-0000-00","data":{"id":"la-cos-04007-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-04007-nrml-0047-00","data":{"id":"la-cos-04007-nrml-0047-00","text":"預設"}}
 {"id":"la-cos-04007-uniq-0047-00","data":{"id":"la-cos-04007-uniq-0047-00","text":"共鳴的拿非利"}}
+{"id":"la-cos-04007-uniq-0106-00","data":{"id":"la-cos-04007-uniq-0106-00","text":"古典少女風"}}
 {"id":"la-cos-04009-nrml-0048-00","data":{"id":"la-cos-04009-nrml-0048-00","text":"預設"}}
 {"id":"la-cos-04010-cmmn-0000-00","data":{"id":"la-cos-04010-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-04010-nrml-0049-00","data":{"id":"la-cos-04010-nrml-0049-00","text":"預設"}}
@@ -179,6 +189,7 @@
 {"id":"la-cos-04015-cmmn-0000-00","data":{"id":"la-cos-04015-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-04015-nrml-0054-00","data":{"id":"la-cos-04015-nrml-0054-00","text":"預設"}}
 {"id":"la-cos-04015-uniq-0054-00","data":{"id":"la-cos-04015-uniq-0054-00","text":"優雅渡鴉"}}
+{"id":"la-cos-04015-uniq-0099-00","data":{"id":"la-cos-04015-uniq-0099-00","text":"魅惑魔女"}}
 {"id":"la-cos-04016-cmmn-0000-00","data":{"id":"la-cos-04016-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-04016-nrml-0055-00","data":{"id":"la-cos-04016-nrml-0055-00","text":"預設"}}
 {"id":"la-cos-04016-uniq-0055-00","data":{"id":"la-cos-04016-uniq-0055-00","text":"FUWA FUWA守護"}}
@@ -199,6 +210,8 @@
 {"id":"la-cos-06004-cmmn-0000-00","data":{"id":"la-cos-06004-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-06004-nrml-0060-00","data":{"id":"la-cos-06004-nrml-0060-00","text":"預設"}}
 {"id":"la-cos-06004-uniq-0060-00","data":{"id":"la-cos-06004-uniq-0060-00","text":"浪漫羽織時尚"}}
+{"id":"la-cos-06004-uniq-0098-00","data":{"id":"la-cos-06004-uniq-0098-00","text":"哥德吸血鬼"}}
 {"id":"la-cos-06005-cmmn-0000-00","data":{"id":"la-cos-06005-cmmn-0000-00","text":"夢幻水果糖"}}
 {"id":"la-cos-06005-nrml-0061-00","data":{"id":"la-cos-06005-nrml-0061-00","text":"預設"}}
 {"id":"la-cos-06005-uniq-0061-00","data":{"id":"la-cos-06005-uniq-0061-00","text":"甜美番長風格"}}
+{"id":"la-cos-06005-uniq-0097-00","data":{"id":"la-cos-06005-uniq-0097-00","text":"最強殭屍"}}
