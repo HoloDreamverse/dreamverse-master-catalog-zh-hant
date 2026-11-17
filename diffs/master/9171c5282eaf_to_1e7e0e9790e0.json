@@ -1,0 +1,17 @@
+{
+  "currentVersion": "1e7e0e9790e0",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "path": "master/export-manifest.json"
+      },
+      {
+        "path": "master/manifest.redacted.json"
+      }
+    ],
+    "removed": []
+  },
+  "previousVersion": "9171c5282eaf",
+  "schemaVersion": 2
+}
