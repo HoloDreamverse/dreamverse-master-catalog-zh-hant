@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-04015-261121",
+     "title": "Happy Birthday！Nerissa Ravencroft",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6ffcf2bf9729211c114cdf37a0582666abcb43d34db5289b0f54ef66adb55276/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-04015-261121",
+     "start_time": 1795186800000,
+     "start_time_utc": "2026-11-20T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gift-gp_bestgame-261120",
      "title": "榮獲Google Play 2026「年度最佳遊戲」大獎！",
      "type": 4,
