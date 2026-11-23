@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-info-stream-123",
+     "title": "holodori官方特別節目確定播出！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/cf2314ea6cf0dbe196707a34477b31f0b7ff9c67bfa161eb03c93b8951b8be2a/index.html",
+     "banner_asset_id": "img_banner_full_info-stream-123",
+     "start_time": 1795424400000,
+     "start_time_utc": "2026-11-23T09:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gift-gp_bestgame-261120",
      "title": "榮獲Google Play 2026「年度最佳遊戲」大獎！",
      "type": 4,
