@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00022-261124",
+     "title": "Happy Birthday！白銀諾艾爾",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7678358c273ad6ce0eb827b19367804e5cd1cb1463a17d3f2e95a1f58c753e7c/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00022-261124",
+     "start_time": 1795446000000,
+     "start_time_utc": "2026-11-23T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-stream-123",
      "title": "holodori官方特別節目確定播出！",
      "type": 4,
